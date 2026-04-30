@@ -4,7 +4,7 @@ Landing page de alta conversão para serviços de fechamento de área em vidro B
 
 ## Visualizar o site
 
-[https://raphaelferreiralldev.github.io/landingpagewordpress/](https://raphaelferreiralldev.github.io/landingpagewordpress/)
+https://landingpagewordpress.netlify.app/
 
 ## Tecnologias
 
